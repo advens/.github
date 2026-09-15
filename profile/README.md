@@ -16,6 +16,6 @@ This org is Advens-originated code only.
 Issues and PRs are welcome on the repository.
 
 Security: private advisory on the repo, or jeremie.jourdin@advens.fr.
-Do not open a public issue for a matcher, loader, or parser bug.
+Do not open a public issue for a security bug.
 
 Default license is Apache-2.0 unless a repo says otherwise.
